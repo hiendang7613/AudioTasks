@@ -18,5 +18,4 @@
     
    
 - Large models:
-    - CLIP, MetaCLIP, DINOv2, BLIP, ALBEF, FastViT, AltCLIP, Fuyu	,Open Flamingo, GPT-4, PaLM-2
- 
+    - audioldm2, jmann, musicldm, meta/musicgen-large

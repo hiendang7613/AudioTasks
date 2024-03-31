@@ -18,5 +18,5 @@
     
    
 - Large models:
-    - CLIP, MetaCLIP, DINOv2, BLIP, ALBEF, FastViT, AltCLIP, Fuyu	,Open Flamingo, GPT-4, PaLM-2
- 
+    - Spleeter, SepFormer, MossFormer, Separate And Diffuse
+    - HT Demucs

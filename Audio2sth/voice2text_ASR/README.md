@@ -18,5 +18,5 @@
     
    
 - Large models:
-    - CLIP, MetaCLIP, DINOv2, BLIP, ALBEF, FastViT, AltCLIP, Fuyu	,Open Flamingo, GPT-4, PaLM-2
- 
+    - sm4T, whisperv3, FastConformer, Distil-Whisper, wave2vec2,
+S2T, Data2Vec, MMS, wavlm, hubert
